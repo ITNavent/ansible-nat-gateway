@@ -1,0 +1,17 @@
+---
+galaxy_info:
+  author: 'Guido Navalesi'
+  description: 'Google Cloud NAT Gateway'
+  license: MIT
+  min_ansible_version: 1.9
+  platforms:
+    - name: Ubuntu
+      versions:
+        - trusty
+    - name: Debian
+      versions:
+      - all
+  galaxy_tags:
+    - google
+    - nat
+    - gateway
